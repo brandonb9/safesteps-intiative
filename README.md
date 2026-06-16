@@ -1,4 +1,3 @@
-# safesteps-intiative
 <!DOCTYPE html>
 <html lang="en">
 <head>
